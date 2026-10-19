@@ -21,7 +21,7 @@ O projeto foi estruturado em Python utilizando **Playwright** para a automação
 ### 1. Clonar o repositório e criar o ambiente virtual
 ```bash
 # Entrar na pasta do projeto
-cd desafio-mostqi
+cd desafio
 
 # Criar ambiente virtual
 python3 -m venv venv
