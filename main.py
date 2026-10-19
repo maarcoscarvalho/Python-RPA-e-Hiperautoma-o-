@@ -4,7 +4,7 @@ from pydantic import BaseModel, Field
 from bot import consultar_portal
 
 app = FastAPI(
-    title="API Robô Portal da Transparência - MostQI",
+    title="API Robô Portal da Transparência",
     description="Desafio Full Stack Python - RPA e Hiperautomação",
     version="1.0"
 )
